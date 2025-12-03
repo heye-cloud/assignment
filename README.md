@@ -1,3 +1,3 @@
-# assignment
-software pjteam work 2
-heye
+东拼西凑软工队
+组长：何也
+组员：郝文昊，齐骥，张子恒，樊莉莙，温瀚文，徐家湾
